@@ -24,5 +24,8 @@ public class Exercicio02 {
         System.out.println("O valor TOTAL dos lanches: " + total);
         System.out.println("O valor MEDIA: " + media);
 
+        // Fechar o scanner
+        entrada.close();
+
     }
 }
