@@ -40,7 +40,7 @@ O material está organizado de acordo com os seguintes módulos:
 
 ## 📂 Estrutura do Repositório
 
-Os exercícios estão organizados em subpastas seguindo a lógica do conteúdo:
+Os exercícios estão organizados em subpastas seguindo a lógica do conteúdo
 
 
 ---
