@@ -21,7 +21,7 @@ public class Exercicio02 {
         float media = (float) total / 3;
 
         // Mostrar o resultado
-        System.out.println("O valor TOTAL dos lanches: " + total);
+        System.out.println("A quantidade de lamches no total: " + total);
         System.out.println("O valor MEDIA: " + media);
 
         // Fechar o scanner
